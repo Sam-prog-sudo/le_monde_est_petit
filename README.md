@@ -47,6 +47,6 @@ Lancer les tests et voir la couverture de tests en format HTML :
 Ce code est fonctionnel avec Python 3. Dernière version testée : 3.6.5.
 
 # Contributeurs
-
-[Régis Behmo](https://github.com/regisb)
-[Céline Martinet Sanchez](https://github.com/celine-m-s)
+Partie programme:[Régis Behmo](https://github.com/regisb)
+                 [Céline Martinet Sanchez](https://github.com/celine-m-s)
+Partie Test: [Samy SAAD](https://github.com/Sam-prog-sudo)
